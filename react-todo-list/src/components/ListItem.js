@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 // jsx
 const ListItem = () => {
   return <div>
